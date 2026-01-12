@@ -38,9 +38,9 @@ depServices:
     connectType: sentinel
     connectInfo:
       masterGroupName: mymaster
-      password: eisoo.com123
+      password: xxxxxx
       sentinelHost: proton-redis-proton-redis-sentinel.resource
-      sentinelPassword: eisoo.com123
+      sentinelPassword: xxxxxx
       sentinelPort: 26379
       sentinelUsername: root
       username: root
@@ -55,7 +55,7 @@ depServices:
     port: 3330
     database: "adp"
     user: "anyshare"
-    password: "eisoo.com123"
+    password: "xxxxxx"
     type: "mysql"
   mq:
     auth: null
